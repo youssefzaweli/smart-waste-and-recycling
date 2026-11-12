@@ -201,11 +201,11 @@ npm start
 
 | Member | GitHub | Individual microservice | Share in MS6 (indicative) |
 |---|---|---|---|
-| Member 1: *Full name* | [@username](https://github.com/username) | Waste Reporting Service | Integration with consumer services |
-| Member 2: *Full name* | [@username](https://github.com/username) | Collection Management Service | Before/after comparison module |
-| Member 3: *Full name* | [@username](https://github.com/username) | Recycling Center Service | API and persistence |
-| Member 4: *Full name* | [@username](https://github.com/username) | Waste Management Service | Model integration and classification prompts |
-| Member 5: *Full name* | [@username](https://github.com/username) | Notification & User Activity Service | Image preparation, test set, evaluation script |
+| Member 1: *Emna Ben nacer* | Waste Reporting Service | Integration with consumer services |
+| Member 2: *Ahmed esseket*  | Collection Management Service | Before/after comparison module |
+| Member 3: *Nawres reszgui* | Recycling Center Service | API and persistence |
+| Member 4: *Youssef zawali* |  Waste Management Service | Model integration and classification prompts |
+| Member 5: *Ayet belkassem* | Notification & User Activity Service | Image preparation, test set, evaluation script |
 
 **Shared work:** API contracts and data models, Git repository and conventions, infrastructure, frontend and dashboard, integration tests, documentation, demo and presentation.
 
